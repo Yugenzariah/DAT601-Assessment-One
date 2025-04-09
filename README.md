@@ -24,7 +24,7 @@ A report containing:
 An Extended Chen-style conceptual Entity Relationship Diagram (ERD) designed using Vertabelo-style notation.
 ![image](https://github.com/user-attachments/assets/994bb903-8fab-4d84-b428-200248dd4f5e)
 
-### 🔧 `Assignment1_SQL_Script`
+### `Assignment1_SQL_Script`
 SQL script that includes:
 - Creation of tables
 - Inserting data to the tables
